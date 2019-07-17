@@ -4,6 +4,10 @@ A quick documentation of how to setup app icons on a React Native app.
 
 There is no need to open `XCode` or `Android Studio` to do this.
 
+### Demo for iOS (left) and Android (right)
+<img src="https://drive.google.com/uc?export=view&id=1Kc-qg4q6yudD9DhaLWNVe3vF-k9FyEJY" width="360">
+<img src="https://drive.google.com/uc?export=view&id=1yh8mlTkxwZZEp9jMUmA5msHxca6XfUNp" width="360">
+
 ### Getting Image Files
 
 1. Find an image that you want to use.
